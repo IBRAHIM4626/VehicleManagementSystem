@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Vehicle Task\\VehicleManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\data\\ivehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:data\\ivehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\data\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:data\\vehiclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\models\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:models\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|e:\\c# vehicle task\\vehiclemanagementsystem\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ACC70C-DB0B-4166-B043-270471B3AA74}|VehicleManagementSystem.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleManager.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Data\\VehicleManager.cs",
+              "RelativeDocumentMoniker": "Data\\VehicleManager.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Data\\VehicleManager.cs",
+              "RelativeToolTip": "Data\\VehicleManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:11:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicleManager.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Data\\IVehicleManager.cs",
+              "RelativeDocumentMoniker": "Data\\IVehicleManager.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Data\\IVehicleManager.cs",
+              "RelativeToolTip": "Data\\IVehicleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:35:21.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Models\\Truck.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Truck.cs",
+              "RelativeToolTip": "Models\\Truck.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:26:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Models\\Motorcycle.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Motorcycle.cs",
+              "RelativeToolTip": "Models\\Motorcycle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:17:23.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:08:55.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Models\\Vehicle.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Models\\Vehicle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:35:12.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Models\\IVehicle.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Models\\IVehicle.cs",
+              "RelativeToolTip": "Models\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:22:06.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C# Vehicle Task\\VehicleManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:07:32.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

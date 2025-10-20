@@ -1,0 +1,14 @@
+E:\C# Vehicle Task\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.exe
+E:\C# Vehicle Task\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.deps.json
+E:\C# Vehicle Task\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.runtimeconfig.json
+E:\C# Vehicle Task\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.dll
+E:\C# Vehicle Task\VehicleManagementSystem\bin\Debug\net8.0\VehicleManagementSystem.pdb
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.AssemblyInfoInputs.cache
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.AssemblyInfo.cs
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.dll
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\refint\VehicleManagementSystem.dll
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.pdb
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\VehicleManagementSystem.genruntimeconfig.cache
+E:\C# Vehicle Task\VehicleManagementSystem\obj\Debug\net8.0\ref\VehicleManagementSystem.dll
